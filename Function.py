@@ -1,10 +1,3 @@
-"""
-《邢不行-2021新版|Python股票量化投资课程》
-author: 邢不行
-微信: xbx2626
-# 本节课程内容
-12 事件策略
-"""
 import pandas as pd
 import os
 import numpy as np

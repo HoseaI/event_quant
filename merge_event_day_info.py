@@ -1,11 +1,4 @@
-"""
-《邢不行-2021新版|Python股票量化投资课程》
-author: 邢不行
-微信: xbx2626
-# 本节课程内容
-12.2 事件策略数据整理
-将事件策略数据event_df于日线数据合并
-"""
+
 from datetime import datetime
 from multiprocessing import Pool, cpu_count
 from Config import *
